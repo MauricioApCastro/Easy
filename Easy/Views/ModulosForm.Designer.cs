@@ -73,7 +73,7 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1304, 639);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1279, 687);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // btnModulo12
@@ -83,9 +83,9 @@
             this.btnModulo12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo12.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo12.Location = new System.Drawing.Point(871, 498);
+            this.btnModulo12.Location = new System.Drawing.Point(855, 540);
             this.btnModulo12.Name = "btnModulo12";
-            this.btnModulo12.Size = new System.Drawing.Size(430, 120);
+            this.btnModulo12.Size = new System.Drawing.Size(421, 120);
             this.btnModulo12.TabIndex = 12;
             this.btnModulo12.Text = "Módulo 12";
             this.btnModulo12.UseVisualStyleBackColor = false;
@@ -98,9 +98,9 @@
             this.btnModulo11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo11.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo11.Location = new System.Drawing.Point(437, 498);
+            this.btnModulo11.Location = new System.Drawing.Point(429, 540);
             this.btnModulo11.Name = "btnModulo11";
-            this.btnModulo11.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo11.Size = new System.Drawing.Size(420, 120);
             this.btnModulo11.TabIndex = 11;
             this.btnModulo11.Text = "Módulo 11";
             this.btnModulo11.UseVisualStyleBackColor = false;
@@ -113,9 +113,9 @@
             this.btnModulo10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo10.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo10.Location = new System.Drawing.Point(3, 498);
+            this.btnModulo10.Location = new System.Drawing.Point(3, 540);
             this.btnModulo10.Name = "btnModulo10";
-            this.btnModulo10.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo10.Size = new System.Drawing.Size(420, 120);
             this.btnModulo10.TabIndex = 10;
             this.btnModulo10.Text = "Módulo 10";
             this.btnModulo10.UseVisualStyleBackColor = false;
@@ -128,9 +128,9 @@
             this.btnModulo9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo9.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo9.Location = new System.Drawing.Point(871, 337);
+            this.btnModulo9.Location = new System.Drawing.Point(855, 367);
             this.btnModulo9.Name = "btnModulo9";
-            this.btnModulo9.Size = new System.Drawing.Size(430, 120);
+            this.btnModulo9.Size = new System.Drawing.Size(421, 120);
             this.btnModulo9.TabIndex = 9;
             this.btnModulo9.Text = "Módulo 9";
             this.btnModulo9.UseVisualStyleBackColor = false;
@@ -143,9 +143,9 @@
             this.btnModulo7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo7.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo7.Location = new System.Drawing.Point(3, 337);
+            this.btnModulo7.Location = new System.Drawing.Point(3, 367);
             this.btnModulo7.Name = "btnModulo7";
-            this.btnModulo7.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo7.Size = new System.Drawing.Size(420, 120);
             this.btnModulo7.TabIndex = 7;
             this.btnModulo7.Text = "Módulo 7";
             this.btnModulo7.UseVisualStyleBackColor = false;
@@ -158,9 +158,9 @@
             this.btnModulo6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo6.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo6.Location = new System.Drawing.Point(871, 178);
+            this.btnModulo6.Location = new System.Drawing.Point(855, 196);
             this.btnModulo6.Name = "btnModulo6";
-            this.btnModulo6.Size = new System.Drawing.Size(430, 120);
+            this.btnModulo6.Size = new System.Drawing.Size(421, 120);
             this.btnModulo6.TabIndex = 6;
             this.btnModulo6.Text = "Módulo 6";
             this.btnModulo6.UseVisualStyleBackColor = false;
@@ -173,9 +173,9 @@
             this.btnModulo5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo5.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo5.Location = new System.Drawing.Point(437, 178);
+            this.btnModulo5.Location = new System.Drawing.Point(429, 196);
             this.btnModulo5.Name = "btnModulo5";
-            this.btnModulo5.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo5.Size = new System.Drawing.Size(420, 120);
             this.btnModulo5.TabIndex = 5;
             this.btnModulo5.Text = "Módulo 5";
             this.btnModulo5.UseVisualStyleBackColor = false;
@@ -188,9 +188,9 @@
             this.btnModulo4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo4.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo4.Location = new System.Drawing.Point(3, 178);
+            this.btnModulo4.Location = new System.Drawing.Point(3, 196);
             this.btnModulo4.Name = "btnModulo4";
-            this.btnModulo4.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo4.Size = new System.Drawing.Size(420, 120);
             this.btnModulo4.TabIndex = 4;
             this.btnModulo4.Text = "Módulo 4";
             this.btnModulo4.UseVisualStyleBackColor = false;
@@ -203,9 +203,9 @@
             this.btnModulo3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo3.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo3.Location = new System.Drawing.Point(871, 19);
+            this.btnModulo3.Location = new System.Drawing.Point(855, 25);
             this.btnModulo3.Name = "btnModulo3";
-            this.btnModulo3.Size = new System.Drawing.Size(430, 120);
+            this.btnModulo3.Size = new System.Drawing.Size(421, 120);
             this.btnModulo3.TabIndex = 3;
             this.btnModulo3.Text = "Módulo 3";
             this.btnModulo3.UseVisualStyleBackColor = false;
@@ -218,9 +218,9 @@
             this.btnModulo2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo2.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo2.Location = new System.Drawing.Point(437, 19);
+            this.btnModulo2.Location = new System.Drawing.Point(429, 25);
             this.btnModulo2.Name = "btnModulo2";
-            this.btnModulo2.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo2.Size = new System.Drawing.Size(420, 120);
             this.btnModulo2.TabIndex = 2;
             this.btnModulo2.Text = "Módulo 2";
             this.btnModulo2.UseVisualStyleBackColor = false;
@@ -233,9 +233,9 @@
             this.btnModulo1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo1.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo1.Location = new System.Drawing.Point(3, 19);
+            this.btnModulo1.Location = new System.Drawing.Point(3, 25);
             this.btnModulo1.Name = "btnModulo1";
-            this.btnModulo1.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo1.Size = new System.Drawing.Size(420, 120);
             this.btnModulo1.TabIndex = 1;
             this.btnModulo1.Text = "Módulo 1";
             this.btnModulo1.UseVisualStyleBackColor = false;
@@ -248,9 +248,9 @@
             this.btnModulo8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo8.Font = new System.Drawing.Font("Comic Sans MS", 35F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModulo8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(75)))), ((int)(((byte)(217)))));
-            this.btnModulo8.Location = new System.Drawing.Point(437, 337);
+            this.btnModulo8.Location = new System.Drawing.Point(429, 367);
             this.btnModulo8.Name = "btnModulo8";
-            this.btnModulo8.Size = new System.Drawing.Size(428, 120);
+            this.btnModulo8.Size = new System.Drawing.Size(420, 120);
             this.btnModulo8.TabIndex = 8;
             this.btnModulo8.Text = "Módulo 8";
             this.btnModulo8.UseVisualStyleBackColor = false;
@@ -261,7 +261,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(101)))), ((int)(((byte)(217)))));
-            this.ClientSize = new System.Drawing.Size(1645, 689);
+            this.ClientSize = new System.Drawing.Size(1284, 689);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "ModulosForm";
             this.Text = "Módulos";
